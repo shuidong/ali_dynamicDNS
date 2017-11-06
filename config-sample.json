@@ -1,0 +1,8 @@
+{
+  "AccessKeyId": "LTAIhDBE23LEFuB1",
+  "AccessKeySecret": "gdaiqXmbvgLvxLD8tOWH1OUWCeBp6g",
+  "clientIpHeader": "X-Real-IP",
+  "path": "/hack",
+  "port": 8080,
+  "domain": "xxx.com"
+}
